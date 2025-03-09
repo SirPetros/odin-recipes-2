@@ -1,0 +1,1 @@
+This is a barebones recipes site, as part of The Odin Project's HTML training.
